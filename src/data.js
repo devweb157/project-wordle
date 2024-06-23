@@ -49,4 +49,10 @@ export const WORDS = [
   'HONEY',
   'FLAKE',
   'SOUND',
+  'LOUVE',
+  'VALUE',
+  'GAELE',
+  'MARCO',
+  'PAULO',
+  'GAMER'
 ];
